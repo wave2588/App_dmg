@@ -1,1 +1,3 @@
-# App_dmg
+# 
+
+`npm run build`
