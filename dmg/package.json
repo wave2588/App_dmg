@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "appdmg appdmg.json app.dmg"
+  },
+  "dependencies": {
+    "appdmg": "^0.5.2"
+  }
+}
+

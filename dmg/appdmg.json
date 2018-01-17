@@ -1,0 +1,22 @@
+{
+    "title": "ShadowsocksX",
+    "icon": "./.AppIcon.icns",
+    "background": "./.bg.tiff",
+    "contents": [{
+            "x": 333,
+            "y": 177,
+            "type": "link",
+            "path": "/Applications"
+        },
+        {
+            "x": 127,
+            "y": 177,
+            "type": "file",
+            "path": "./ShadowsocksX.app"
+        }
+    ]
+}
+
+
+
+
